@@ -1,0 +1,20 @@
+D:\Code Academy\C# Projects\Cinema\Cinema\bin\Debug\Cinema.exe.config
+D:\Code Academy\C# Projects\Cinema\Cinema\bin\Debug\Cinema.exe
+D:\Code Academy\C# Projects\Cinema\Cinema\bin\Debug\Cinema.pdb
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.exe
+D:\Code Academy\C# Projects\Cinema\Cinema\obj\Debug\Cinema.pdb
+D:\Code Academy\C# Projects\Cinema C#\Cinema\bin\Debug\Cinema.exe.config
+D:\Code Academy\C# Projects\Cinema C#\Cinema\bin\Debug\Cinema.exe
+D:\Code Academy\C# Projects\Cinema C#\Cinema\bin\Debug\Cinema.pdb
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.Form1.resources
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.exe
+D:\Code Academy\C# Projects\Cinema C#\Cinema\obj\Debug\Cinema.pdb
